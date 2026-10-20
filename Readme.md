@@ -1,19 +1,29 @@
+<a id="readme-top"></a>
+
 <div align="center">
 
 # 🅰️ Angular Course
 
-**Build fast, structured, and scalable web apps — one component at a time.**
+![Welcome to my Angular learning journey](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=DD0031&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+Angular+learning+journey;Fast,+structured,+scalable+web+apps;One+component+at+a+time)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-[📖 Overview](#-overview) • [📋 Course Info](#-course-info) • [🧩 Topics](#-topics-covered) • [🧰 Skills](#-skills-gained) • [🏆 Certificate](#-certificate) • [🚀 Next Steps](#-next-steps)
+![Modules Completed](https://img.shields.io/badge/Modules%20Completed-2-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Last Updated](https://img.shields.io/github/last-commit/vinayakmishra4/Angluar-JS?style=for-the-badge&label=Last%20Updated&color=3178C6)
 
 </div>
+
+---
+
+## 📑 Table of Contents
+
+1. [📖 Overview](#-overview)
+2. [📋 Course Info](#-course-info)
+3. [🧩 Topics Covered](#-topics-covered)
+4. [🧰 Skills Gained](#-skills-gained)
+5. [💻 Tech Stack](#-tech-stack)
+6. [💡 Key Concepts](#-key-concepts)
+7. [🔗 Reference Links](#-reference-links)
+8. [🎯 Key Takeaways](#-key-takeaways)
+9. [🚀 Next Steps](#-next-steps)
 
 ---
 
@@ -21,72 +31,91 @@
 
 This repository documents my learning journey through an **Angular** course — Google's open-source, TypeScript-based framework for building modern, scalable single-page applications (SPAs). I took the course to build a solid foundation in front-end development and to understand how component-based applications are designed, structured, and maintained.
 
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+
 ---
 
 ## 📋 Course Info
 
-| Detail | Information |
-| --- | --- |
-| 🎓 **Course Name** | Angular |
-| 🏫 **Platform / Provider** | [PLATFORM, e.g. GeeksforGeeks, Coursera, Udemy] |
-| ⏳ **Duration** | [DURATION, e.g. 4 weeks, 20 hours] |
-| 📅 **Completion Status** | [Completed / In Progress] — [DATE] |
+- 🎓 **Course Name:** Angular
+- 🏫 **Platform / Provider:** [PLATFORM, e.g. GeeksforGeeks, Coursera, Udemy]
+- ⏳ **Duration:** [DURATION, e.g. 4 weeks, 20 hours]
+- 📅 **Completion Status:** [Completed / In Progress] — [DATE]
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 ---
 
 ## 🧩 Topics Covered
 
-> [!TIP]
-> Click a linked module name to open its detailed notes.
+### 🌟 Module 1: Introduction
 
-| Module | What's Covered | Notes |
-| --- | --- | --- |
-| 🌟 **[1. Introduction](https://github.com/vinayakmishra4/Angluar-JS/blob/main/Intr0/Readme.md)** | Angular overview, prerequisites (HTML, CSS, JavaScript, TypeScript, Node.js, npm), Angular CLI and workspace, key features, main building blocks, advantages, real-world applications, Angular vs. AngularJS | ✅ Available |
-| 🧩 **[2. Components](https://github.com/vinayakmishra4/Angluar-JS/blob/main/Components/Readme.md)** | Component-based architecture, main parts of a component (template, TypeScript class, selector, styles, NgModule), reusability, maintainability, separation of concerns, testability, real-world example | ✅ Available |
-| 🎨 **3. Templates & Data Binding** | Templates, interpolation, property binding, event binding, two-way binding | 🔜 Coming soon |
-| ✨ **4. Directives & Pipes** | Built-in and custom directives, formatting data with built-in and custom pipes | 🔜 Coming soon |
-| 🔧 **5. Services & Dependency Injection** | Creating services, sharing logic and data, how dependency injection works | 🔜 Coming soon |
-| 📝 **6. Forms & Validation** | Template-driven and reactive forms, input validation, user feedback | 🔜 Coming soon |
-| 🌐 **7. HTTP Client & Observables** | Communicating with REST APIs, working with JSON, reactive programming with RxJS | 🔜 Coming soon |
-| 🧭 **8. Routing & Navigation** | Angular Router, multi-view SPAs, route parameters, lazy loading | 🔜 Coming soon |
-| ⚡ **9. Advanced Topics & Best Practices** | Standalone components, lifecycle hooks, testing basics, performance optimization, project structure | 🔜 Coming soon |
+An overview of Angular, what you need to get started, and the core features and building blocks of the framework.
+
+- What Angular is and why it is used for modern web applications
+- Prerequisites: HTML, CSS, JavaScript, TypeScript, Node.js, and npm
+- Angular CLI and Angular workspace
+- Key features and main building blocks
+- Advantages and real-world applications
+- Angular vs. AngularJS
+
+📄 [Read the full notes](https://github.com/vinayakmishra4/Angluar-JS/blob/main/Intr0/Readme.md)
+
+### 🧱 Module 2: Components
+
+How Angular applications are built from small, reusable components, and why this architecture matters.
+
+- Component-based architecture
+- Main parts of a component: HTML template, TypeScript class, CSS selector, CSS styles, and NgModule (or standalone components)
+- Features and advantages: reusability, maintainability, separation of concerns, and testability
+- Components in a real-world application (e-commerce example)
+
+📄 [Read the full notes](https://github.com/vinayakmishra4/Angluar-JS/blob/main/Components/Readme.md)
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 ---
 
 ## 🧰 Skills Gained
 
-- ✅ Building dynamic **single-page applications (SPAs)** with Angular
+- ✅ Understanding how Angular and **single-page applications (SPAs)** work
+- ✅ Setting up an Angular environment with **Node.js, npm, and Angular CLI**
+- ✅ Organizing projects with **Angular workspaces**
 - ✅ Designing reusable, **component-based** user interfaces
-- ✅ Writing type-safe, maintainable code with **TypeScript**
-- ✅ Creating and managing projects with **Angular CLI** and workspaces
-- ✅ Connecting data and UI with **data binding** and **directives**
-- ✅ Organizing logic with **services** and **dependency injection**
-- ✅ Implementing **routing** for multi-view navigation
-- ✅ Building **forms with validation** and clear user feedback
-- ✅ Consuming **REST APIs** with the HTTP Client
+- ✅ Structuring components with a **template, TypeScript class, selector, and styles**
+- ✅ Applying **separation of concerns** for maintainable, testable code
+- ✅ Recognizing Angular's core building blocks — directives, services, dependency injection, pipes, routing, forms, and HTTP Client
 
-**🛠️ Tools & Technologies:** Angular, TypeScript, HTML, CSS, JavaScript, Node.js, npm, Angular CLI
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Tech Stack](https://skillicons.dev/icons?i=angular,ts,html,css,js,nodejs)
+
+**Angular • TypeScript • HTML • CSS • JavaScript • Node.js • npm • Angular CLI**
+
+</div>
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 ---
 
 ## 💡 Key Concepts
 
-| Concept | Description |
-| --- | --- |
-| 🧱 **Component-Based Architecture** | Applications are built from small, reusable components, each managing one part of the user interface. |
-| 📄 **Templates** | HTML-based views that define the structure and presentation of the user interface. |
-| 🔄 **Data Binding** | Connects component data with the template through interpolation, property binding, event binding, and two-way binding. |
-| ✨ **Directives & Pipes** | Directives change the appearance or behavior of elements; pipes format displayed data such as dates, currency, and text. |
-| 🔧 **Services & Dependency Injection** | Reusable logic lives in services, and the framework supplies them to the classes that need them. |
-| 🧭 **Routing** | The Angular Router switches between views without reloading the page. |
-| 📦 **Modules & Standalone Components** | NgModules group related features, while standalone components can be used without an NgModule. |
-| ⌨️ **Angular CLI** | The official command-line tool for creating, developing, testing, and building applications. |
+- 🧱 **Component-Based Architecture** — Applications are built from small, reusable components, each managing one part of the user interface.
+- 📄 **Templates** — HTML-based views that define the structure and presentation of the user interface.
+- 🔄 **Data Binding** — Connects component data with the template through interpolation, property binding, event binding, and two-way binding.
+- ✨ **Directives & Pipes** — Directives change the appearance or behavior of elements; pipes format displayed data such as dates, currency, and text.
+- 🔧 **Services & Dependency Injection** — Reusable logic lives in services, and the framework supplies them to the classes that need them.
+- 🧭 **Routing** — The Angular Router switches between views without reloading the page.
+- 📦 **Modules & Standalone Components** — NgModules group related features, while standalone components can be used without an NgModule.
+- ⌨️ **Angular CLI** — The official command-line tool for creating, developing, testing, and building applications.
 
----
-
-## 🏆 Certificate
-
-> 🎓 **Certificate of Completion** — [View Certificate](INSERT_CERTIFICATE_LINK_HERE)
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 ---
 
@@ -94,6 +123,8 @@ This repository documents my learning journey through an **Angular** course — 
 
 - 📘 [Course Page](INSERT_COURSE_LINK_HERE) — the course this repository documents
 - 📚 [Official Angular Documentation](https://angular.dev) — framework reference
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 ---
 
@@ -104,6 +135,8 @@ This repository documents my learning journey through an **Angular** course — 
 - ⚙️ Built-in tooling — CLI, routing, forms, HTTP, and dependency injection — supports scalable, well-organized applications.
 - 🧪 Components and services can be tested independently, which improves reliability.
 
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+
 ---
 
 ## 🚀 Next Steps
@@ -113,6 +146,8 @@ This repository documents my learning journey through an **Angular** course — 
 - [ ] Learn to write unit tests for components and services
 - [ ] Connect Angular front ends to backend REST APIs to work toward full-stack projects
 - [ ] Showcase the finished project in my portfolio
+
+<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
 ---
 
